@@ -1,2 +1,2 @@
-# Curso_Full_Stack
-Curso que estou aprendendo de Javascript e Typescript
+# Curso Full Stack
+Curso que estou aprendendo de Javascript e Typescript. :)
