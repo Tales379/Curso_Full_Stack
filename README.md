@@ -45,4 +45,4 @@ Qualquer ajuda, sugestão ou feedback é **sempre bem-vindo**! Sinta-se à vonta
 - LinkedIn: Tales Lopes (https://www.linkedin.com/in/tales-lopes-santana-a08a08251/?isSelfProfile=true)
 ---
 
-<p align="center">Feito com 💜 durante meus estudos</p>
+<p align="center">Feito com carinho durante meus estudos :)</p>
